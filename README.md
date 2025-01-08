@@ -26,7 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Maltego-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OSINT Framework-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT Framework-005571?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Network
