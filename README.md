@@ -20,6 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft Azure-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-FFA500?&style=for-the-badge&logo=AWSk&logoColor=white" />
 </div>
 
 ### OSINT
@@ -54,7 +55,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ITIL Foundation-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-PMI Disciplined Agile Scrum Master-000080?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIAITF&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITF%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS Cloud Practitioner-FFA500?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft AZ900-ADD8e6?&style=for-the-badge&logoColor=white" />
 </div>
