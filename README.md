@@ -48,6 +48,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### IDE
+<div>
+    <img src="https://img.shields.io/badge/-Cursor-000000?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+
 ## Certifications
 
 <div>
