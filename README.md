@@ -5,7 +5,7 @@ I am a recent convert to the church of IT from the world of corporate Marketing 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or similar role. 
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to start a company providing managed services and program management. 
 
 ## Skills
 
@@ -64,6 +64,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-ITF%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS Cloud Practitioner-FFA500?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft AZ900-ADD8e6?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
